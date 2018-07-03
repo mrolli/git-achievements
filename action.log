@@ -382,3 +382,19 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Tue Jul  3 17:57:36 CEST 2018
 add ../Vagrantfile
 Date: Tue Jul  3 17:57:38 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul  3 17:57:43 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul  3 17:57:43 CEST 2018
+commit -v -m Fix overlapping IPs for puppet0# and client0#
+Date: Tue Jul  3 17:58:04 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul  3 17:58:04 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul  3 17:58:04 CEST 2018
+rev-parse --git-dir
+Date: Tue Jul  3 17:58:06 CEST 2018
+rev-parse --git-dir
+Date: Tue Jul  3 17:58:07 CEST 2018
+push origin development
+Date: Tue Jul  3 17:58:08 CEST 2018
