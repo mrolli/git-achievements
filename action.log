@@ -78,3 +78,15 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Tue Jul  3 15:18:06 CEST 2018
 commit -v --amend 
 Date: Tue Jul  3 15:18:28 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul  3 15:18:36 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul  3 15:18:36 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul  3 15:18:48 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul  3 15:18:48 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Tue Jul  3 15:18:49 CEST 2018
+push origin gh-pages -f
+Date: Tue Jul  3 15:19:17 CEST 2018
