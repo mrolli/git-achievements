@@ -37,7 +37,8 @@ When an achievement is unlocked the index.html file will be overwritten, committ
 Add git-achievements to your path and alias git to git-achievements. For example add the following to the end of your `~/.bash_profile`
 
 ```
-export PATH="$PATH":~/git/git-achievements
+export GIT_ACHIEVEMENTS_HOME=/path/to/this/repo
+export PATH="${PATH}":"${GIT_ACHIEVEMENTS_HOME}"
 alias git="git-achievements"
 ```
 
