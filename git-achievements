@@ -471,7 +471,7 @@ There are $total Achievements. Some achievements can be leveled up depending on 
     fi
 
     echo "Adding new achievements and publishing to origin."
-    git add index.html index.rss
+    git add index.html index.rss achievements.log action.log
     if [ -z "${1}" ] ; then
         message="Publishing updated achievement"
     else
