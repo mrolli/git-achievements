@@ -1288,3 +1288,125 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Thu Jul  5 14:45:25 CEST 2018
 add .
 Date: Thu Jul  5 14:45:27 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 14:45:31 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 14:45:31 CEST 2018
+status -s 
+Date: Thu Jul  5 14:45:31 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 14:45:32 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 14:45:32 CEST 2018
+commit -v -m New configuration for type idlogger-es (Dalco)
+Date: Thu Jul  5 14:45:53 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 14:45:53 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 14:45:54 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Thu Jul  5 14:46:11 CEST 2018
+status -s 
+Date: Thu Jul  5 14:46:12 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 14:46:12 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 14:46:12 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Thu Jul  5 14:46:13 CEST 2018
+push origin master
+Date: Thu Jul  5 14:57:10 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 14:57:10 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 14:57:11 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 15:07:05 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 15:07:05 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 15:08:28 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 15:08:28 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 15:19:04 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 15:19:05 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 15:26:41 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 15:26:41 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 15:27:14 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 15:27:14 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:05:05 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:05:05 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:05:07 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:05:07 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:09:20 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:09:20 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:36:41 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:36:41 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:36:41 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:36:41 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:39:57 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:39:57 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:42:19 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:42:20 CEST 2018
+status -s 
+Date: Thu Jul  5 16:42:24 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:42:24 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:42:24 CEST 2018
+diff
+Date: Thu Jul  5 16:42:26 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:42:26 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:42:26 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:42:40 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:42:40 CEST 2018
+add HOWTO centos7-std-server-virtual centos7-std-server-virtual-static default idlogger-es-ttyS0 ks local message
+Date: Thu Jul  5 16:42:49 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:42:49 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:42:49 CEST 2018
+status -s 
+Date: Thu Jul  5 16:42:50 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:42:50 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:42:50 CEST 2018
+commit -v --amend 
+Date: Thu Jul  5 16:42:53 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:42:53 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:42:53 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Thu Jul  5 16:42:57 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul  5 16:42:59 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul  5 16:42:59 CEST 2018
+push origin master -f
+Date: Thu Jul  5 16:43:02 CEST 2018
