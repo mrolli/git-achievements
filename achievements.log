@@ -110,3 +110,11 @@
        Stash the changes in a dirty working directory away with git stash.       
 ********************************************************************************
 
+
+********************************************************************************
+                            Git Achievement Unlocked!                            
+
+                              Stone Mason (Level 4)                              
+   Added files to the index area for inclusion in the next commit with git add   
+********************************************************************************
+
