@@ -3012,3 +3012,99 @@ rev-parse --git-dir
 Date: Thu Jul 12 17:04:11 CEST 2018
 commit -v -m Manage postifx
 Date: Thu Jul 12 17:04:21 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:04:25 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:04:26 CEST 2018
+status -s 
+Date: Thu Jul 12 17:04:27 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:04:27 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:04:27 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:04:36 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:04:36 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:04:53 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:04:53 CEST 2018
+add role/manifests/submit.pp
+Date: Thu Jul 12 17:04:59 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:04:59 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:04:59 CEST 2018
+commit -v -m Neded stuff for submits.
+Date: Thu Jul 12 17:05:10 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:05:10 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:05:10 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:05:13 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:05:13 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:05:27 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:05:27 CEST 2018
+grep manage_firewall
+Date: Thu Jul 12 17:05:35 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:05:36 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:05:36 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:05:48 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:05:48 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:06:03 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:06:04 CEST 2018
+add data/tribe/frontendserver.yaml
+Date: Thu Jul 12 17:06:09 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:06:09 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:06:09 CEST 2018
+commit -v -m Do not start firewall on frontendservers
+Date: Thu Jul 12 17:06:25 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:06:25 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:06:25 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Thu Jul 12 17:06:26 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Thu Jul 12 17:06:27 CEST 2018
+push origin development
+Date: Thu Jul 12 17:06:31 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:06:31 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:06:31 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:16:40 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:16:40 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:16:45 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:16:45 CEST 2018
+add site/role/manifests/submit.pp
+Date: Thu Jul 12 17:16:53 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:16:53 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:16:53 CEST 2018
+commit -v -m Fix classname for ubelixuser mount
+Date: Thu Jul 12 17:17:03 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:17:03 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:17:03 CEST 2018
+push origin development
+Date: Thu Jul 12 17:17:07 CEST 2018
