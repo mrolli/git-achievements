@@ -2990,3 +2990,25 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Thu Jul 12 17:02:50 CEST 2018
 grep storage
 Date: Thu Jul 12 17:02:52 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:02:56 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:02:56 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:03:52 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:03:52 CEST 2018
+status -s 
+Date: Thu Jul 12 17:04:07 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Jul 12 17:04:07 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Jul 12 17:04:07 CEST 2018
+rev-parse --git-dir
+Date: Thu Jul 12 17:04:10 CEST 2018
+rev-parse --git-dir
+Date: Thu Jul 12 17:04:11 CEST 2018
+rev-parse --git-dir
+Date: Thu Jul 12 17:04:11 CEST 2018
+commit -v -m Manage postifx
+Date: Thu Jul 12 17:04:21 CEST 2018
