@@ -4754,3 +4754,15 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Tue Jul 17 10:42:28 CEST 2018
 config user.email michael.rolli@id.unibe.ch
 Date: Tue Jul 17 10:42:35 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:42:39 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:42:39 CEST 2018
+config user.name
+Date: Tue Jul 17 10:42:47 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:42:47 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:42:47 CEST 2018
+config user.name Rolli, Michael (ID)
+Date: Tue Jul 17 10:42:57 CEST 2018
