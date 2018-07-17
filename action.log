@@ -4724,3 +4724,33 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Tue Jul 17 10:40:26 CEST 2018
 push -f
 Date: Tue Jul 17 10:40:28 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:40:32 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:40:32 CEST 2018
+push -f
+Date: Tue Jul 17 10:40:34 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:40:34 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:40:34 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:42:16 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:42:16 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:42:19 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:42:19 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:42:25 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:42:25 CEST 2018
+config user.email
+Date: Tue Jul 17 10:42:28 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:42:28 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:42:28 CEST 2018
+config user.email michael.rolli@id.unibe.ch
+Date: Tue Jul 17 10:42:35 CEST 2018
