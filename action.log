@@ -4704,3 +4704,23 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Tue Jul 17 10:36:46 CEST 2018
 commit -v -m Cleanup and backup activation.
 Date: Tue Jul 17 10:36:57 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:37:02 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:37:02 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Tue Jul 17 10:37:04 CEST 2018
+rev-parse --git-dir
+Date: Tue Jul 17 10:37:04 CEST 2018
+rev-parse --git-dir
+Date: Tue Jul 17 10:37:05 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:38:21 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:38:21 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:40:26 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:40:26 CEST 2018
+push -f
+Date: Tue Jul 17 10:40:28 CEST 2018
