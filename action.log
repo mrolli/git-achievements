@@ -4766,3 +4766,9 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Tue Jul 17 10:42:47 CEST 2018
 config user.name Rolli, Michael (ID)
 Date: Tue Jul 17 10:42:57 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Jul 17 10:43:02 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Jul 17 10:43:02 CEST 2018
+log -S cvmfs
+Date: Tue Jul 17 10:43:40 CEST 2018
