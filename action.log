@@ -8304,3 +8304,105 @@ rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tr
 Date: Mon Sep 10 10:55:26 CEST 2018
 remote add origin git@github.com:ubelix/easybuild-easyconfigs.git
 Date: Mon Sep 10 10:56:15 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:56:20 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Mon Sep 10 10:56:25 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Mon Sep 10 10:56:26 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:56:26 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:56:33 CEST 2018
+checkout develop
+Date: Mon Sep 10 10:56:34 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:56:34 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Mon Sep 10 10:56:36 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:56:43 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:56:45 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:56:48 CEST 2018
+push -u origin develop
+Date: Mon Sep 10 10:56:57 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:56:57 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Sep 10 10:56:58 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:57:00 CEST 2018
+checkout master
+Date: Mon Sep 10 10:57:00 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:57:01 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Mon Sep 10 10:57:02 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:57:04 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:57:04 CEST 2018
+push -u origin master
+Date: Mon Sep 10 10:57:11 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:57:11 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Sep 10 10:57:11 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:57:14 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:57:16 CEST 2018
+checkout feature/FFTW-3.3.8-intel-2018b
+Date: Mon Sep 10 10:57:17 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:57:17 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Mon Sep 10 10:57:19 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:57:19 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:57:20 CEST 2018
+push origin feature/FFTW-3.3.8-intel-2018b
+Date: Mon Sep 10 10:57:28 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:57:28 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:57:38 CEST 2018
+checkout develop
+Date: Mon Sep 10 10:57:38 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:57:38 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Sep 10 10:57:39 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:57:52 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Sep 10 10:57:52 CEST 2018
+add FFTW-3.3.8-iomkl-2018b.eb
+Date: Mon Sep 10 10:57:58 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:57:58 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Sep 10 10:57:59 CEST 2018
+commit -v -m Support for FFTW-3.3.8 compiled with iomkl-2018b toolchain.
+Date: Mon Sep 10 10:58:18 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:58:19 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Sep 10 10:58:19 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Mon Sep 10 10:58:21 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:58:22 CEST 2018
+rev-parse --git-dir
+Date: Mon Sep 10 10:58:23 CEST 2018
+reset HEAD~1
+Date: Mon Sep 10 10:58:33 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Sep 10 10:58:33 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Sep 10 10:58:33 CEST 2018
+checkout -b feature/FFTW-3.3.8-iomkl-2018b
+Date: Mon Sep 10 10:58:40 CEST 2018
