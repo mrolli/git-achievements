@@ -11414,3 +11414,705 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Tue Sep 18 15:54:05 CEST 2018
 add packages.pp
 Date: Tue Sep 18 15:54:08 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:54:14 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:54:14 CEST 2018
+commit -v -m Improved documentation
+Date: Tue Sep 18 15:54:14 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:54:14 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:54:15 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:54:16 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:54:16 CEST 2018
+status -s 
+Date: Tue Sep 18 15:54:17 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:54:17 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:54:18 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:54:22 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:54:22 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:54:23 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:54:23 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:54:26 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:54:26 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:54:35 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:54:36 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:54:49 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:54:50 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:55:25 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:55:26 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:55:44 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:55:44 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:59:09 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:59:09 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 15:59:23 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 15:59:23 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 16:04:07 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 16:04:07 CEST 2018
+mv fileserver.pp export_aiub_sedna.pp
+Date: Tue Sep 18 16:04:15 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 16:04:15 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 16:04:15 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 16:04:20 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 16:04:20 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 16:04:22 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 16:04:22 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 16:05:09 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 16:05:09 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 16:05:13 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 16:05:13 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 16:05:31 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 16:05:31 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Sep 18 16:08:38 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Sep 18 16:08:38 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 08:56:27 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 08:56:27 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 08:56:27 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 08:56:27 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 08:56:38 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 08:56:38 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:00:30 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:00:31 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:00:51 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:00:51 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:00:56 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:00:56 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:01:05 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:01:05 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:01:13 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:01:13 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:01:17 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:01:17 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:01:24 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:01:24 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:01:31 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:01:32 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:01:35 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:01:35 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:07:37 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:07:37 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:07:45 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:07:45 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:14:29 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:14:29 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:15:05 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:15:05 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:15:07 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:15:07 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:16:16 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:16:16 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:16:21 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:16:21 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:16:22 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:16:22 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:16:25 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:16:25 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:16:25 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:16:26 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:16:30 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:16:30 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:21:20 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:21:21 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:21:32 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:21:32 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:21:42 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:21:42 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:21:42 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:21:42 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:21:51 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:21:51 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:22:01 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:22:01 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:22:13 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:22:14 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:23:14 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:23:14 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:23:15 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:23:15 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:25:49 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:25:49 CEST 2018
+rev-parse --git-dir
+Date: Wed Sep 19 09:25:56 CEST 2018
+rev-parse --git-dir
+Date: Wed Sep 19 09:25:57 CEST 2018
+rev-parse --git-dir
+Date: Wed Sep 19 09:25:59 CEST 2018
+diff idlogger-es.ks idgraylog-heavy.ks
+Date: Wed Sep 19 09:26:00 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:26:00 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:26:00 CEST 2018
+diff
+Date: Wed Sep 19 09:26:06 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:26:06 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:26:07 CEST 2018
+status -s 
+Date: Wed Sep 19 09:26:09 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:26:09 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:26:09 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:26:18 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:26:18 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:26:26 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:26:26 CEST 2018
+add idgraylog-heavy.ks
+Date: Wed Sep 19 09:26:30 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:26:31 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:26:31 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:26:33 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:26:33 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:26:33 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:26:33 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:26:41 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:26:41 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:26:46 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:26:46 CEST 2018
+add idgraylog-heavy-ttyS0
+Date: Wed Sep 19 09:26:50 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:26:50 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:26:50 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:27:11 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:27:11 CEST 2018
+status -s 
+Date: Wed Sep 19 09:27:13 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:27:13 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:27:13 CEST 2018
+add default
+Date: Wed Sep 19 09:27:15 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:27:15 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:27:15 CEST 2018
+commit -v -m Added pxe config for idgraeylog heavy duty servers
+Date: Wed Sep 19 09:27:28 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:27:28 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:27:28 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Wed Sep 19 09:27:31 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Wed Sep 19 09:27:32 CEST 2018
+push origin master
+Date: Wed Sep 19 09:27:36 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:27:36 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:27:37 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:28:08 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:28:08 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:28:08 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:28:08 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:28:20 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:28:20 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:33:37 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:33:37 CEST 2018
+add message
+Date: Wed Sep 19 09:33:40 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:33:40 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:33:40 CEST 2018
+commit -v --amend 
+Date: Wed Sep 19 09:33:43 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:33:43 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:33:43 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Wed Sep 19 09:33:46 CEST 2018
+push origin master -f
+Date: Wed Sep 19 09:33:48 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:33:48 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:33:48 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:34:22 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:34:22 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:34:23 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:34:23 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:43:46 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:43:47 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:43:49 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:43:50 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:43:50 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:43:50 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:44:01 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:44:01 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:44:36 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:44:36 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:44:47 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:44:47 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:44:48 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:44:48 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:44:57 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:44:57 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:45:32 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:45:32 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:45:38 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:45:38 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:46:25 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:46:25 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:46:34 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:46:34 CEST 2018
+add idgraylog.pp
+Date: Wed Sep 19 09:46:37 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:46:37 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:46:37 CEST 2018
+status -s 
+Date: Wed Sep 19 09:46:38 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:46:38 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:46:39 CEST 2018
+add idgraylog.yaml
+Date: Wed Sep 19 09:46:44 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:46:45 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:46:45 CEST 2018
+status -s 
+Date: Wed Sep 19 09:46:46 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:46:46 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:46:46 CEST 2018
+commit -v -m New role idgraylog
+Date: Wed Sep 19 09:46:53 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:46:53 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:46:53 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Wed Sep 19 09:46:55 CEST 2018
+rev-parse --git-dir
+Date: Wed Sep 19 09:46:55 CEST 2018
+rev-parse --git-dir
+Date: Wed Sep 19 09:46:56 CEST 2018
+push origin development
+Date: Wed Sep 19 09:46:57 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:46:57 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:46:57 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:47:41 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:47:41 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:47:49 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:47:50 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:49:17 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:49:17 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:49:40 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:49:40 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 09:49:41 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 09:49:42 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 11:17:14 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 11:17:14 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 11:47:20 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 11:47:20 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 14:58:47 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 14:58:47 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 14:58:47 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 14:58:47 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 14:58:49 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 14:58:49 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 14:59:27 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 14:59:27 CEST 2018
+add data/role/idlogger_es.yaml
+Date: Wed Sep 19 14:59:30 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 14:59:30 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 14:59:30 CEST 2018
+commit -v -m Fix IP addresses of idlogger-es hosts
+Date: Wed Sep 19 14:59:49 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 14:59:50 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 14:59:50 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Wed Sep 19 14:59:51 CEST 2018
+push origin development
+Date: Wed Sep 19 14:59:54 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 14:59:54 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 14:59:54 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:01:52 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:01:52 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:01:52 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:01:53 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:01:55 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:01:55 CEST 2018
+commit -v --amend 
+Date: Wed Sep 19 15:01:59 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:01:59 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:02:00 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:03:13 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:03:13 CEST 2018
+push origin development -f
+Date: Wed Sep 19 15:03:17 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:03:17 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:03:17 CEST 2018
+status -s 
+Date: Wed Sep 19 15:04:49 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:04:49 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:04:49 CEST 2018
+add data/role/idlogger_es.yaml
+Date: Wed Sep 19 15:04:55 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:04:55 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:04:56 CEST 2018
+commit -v --amend 
+Date: Wed Sep 19 15:04:58 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:04:58 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:04:58 CEST 2018
+push origin development -f
+Date: Wed Sep 19 15:05:12 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:05:12 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:05:12 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:07:36 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:07:37 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:07:51 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:07:51 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:08:00 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:08:00 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:08:16 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:08:17 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:36:03 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:36:03 CEST 2018
+add site/profile/manifests/elasticsearch/cluster_node.pp
+Date: Wed Sep 19 15:36:09 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:36:09 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:36:09 CEST 2018
+diff
+Date: Wed Sep 19 15:36:10 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:36:10 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:36:10 CEST 2018
+diff --staged
+Date: Wed Sep 19 15:36:13 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:36:13 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:36:13 CEST 2018
+commit -v -m Remove multicast stuff.
+Date: Wed Sep 19 15:36:28 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:36:29 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:36:29 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Wed Sep 19 15:36:30 CEST 2018
+push origin development
+Date: Wed Sep 19 15:36:33 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:36:34 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:36:34 CEST 2018
+status -s 
+Date: Wed Sep 19 15:42:20 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Sep 19 15:42:20 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 15:42:21 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Date: Date: Wed Sep 19 17:10:38 CEST 2018
+Wed Sep 19 17:10:38 CEST 2018
+Wed Sep 19 17:10:38 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+rev-list --count --left-right @{upstream}...HEAD
+Date: Date: Wed Sep 19 17:10:38 CEST 2018
+Wed Sep 19 17:10:38 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Sep 19 17:10:38 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Sep 20 08:51:03 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Sep 20 08:51:03 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Sep 20 08:51:03 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Sep 20 08:51:03 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Sep 20 08:57:40 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Sep 20 08:57:40 CEST 2018
+status -s 
+Date: Thu Sep 20 08:57:42 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Sep 20 08:57:42 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Sep 20 08:57:42 CEST 2018
+diff
+Date: Thu Sep 20 08:57:45 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Sep 20 08:57:45 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Sep 20 08:57:45 CEST 2018
+add role/idlogger_es.yaml
+Date: Thu Sep 20 08:57:51 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Sep 20 08:57:52 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Sep 20 08:57:52 CEST 2018
+commit -v -m Rename idlogger es cluster
+Date: Thu Sep 20 08:58:46 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Sep 20 08:58:47 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Sep 20 08:58:47 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Thu Sep 20 08:58:48 CEST 2018
+rev-parse --git-dir
+Date: Thu Sep 20 08:58:49 CEST 2018
+rev-parse --git-dir
+Date: Thu Sep 20 08:58:49 CEST 2018
+push origin development
+Date: Thu Sep 20 08:58:50 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Sep 20 08:58:51 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Thu Sep 20 08:58:51 CEST 2018
+checkout -b testing
+Date: Thu Sep 20 08:59:15 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Sep 20 08:59:15 CEST 2018
+status -s 
+Date: Thu Sep 20 08:59:17 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Sep 20 08:59:17 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Thu Sep 20 08:59:18 CEST 2018
+rev-parse --git-dir
+Date: Thu Sep 20 08:59:18 CEST 2018
+rev-parse --git-dir
+Date: Thu Sep 20 08:59:19 CEST 2018
+push origin testing
+Date: Thu Sep 20 08:59:19 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Thu Sep 20 08:59:19 CEST 2018
+checkout -b production
+Date: Thu Sep 20 09:12:33 CEST 2018
