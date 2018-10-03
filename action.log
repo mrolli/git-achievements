@@ -16614,3 +16614,171 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Wed Oct  3 08:59:42 CEST 2018
 stash pop
 Date: Wed Oct  3 08:59:50 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 08:59:54 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 08:59:54 CEST 2018
+status -s 
+Date: Wed Oct  3 08:59:55 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 08:59:55 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 08:59:56 CEST 2018
+add .
+Date: Wed Oct  3 09:00:00 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:00:00 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:00:00 CEST 2018
+status -s 
+Date: Wed Oct  3 09:00:01 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:00:01 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:00:01 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:00:07 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:00:07 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:00:19 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:00:19 CEST 2018
+commit -v -m Support mirrorlist attribute
+Date: Wed Oct  3 09:00:33 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:00:33 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:00:33 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Wed Oct  3 09:00:37 CEST 2018
+push origin feature/UXPM-276-add-support-for-mirrorlist
+Date: Wed Oct  3 09:00:38 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:00:38 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:00:39 CEST 2018
+checkout master
+Date: Wed Oct  3 09:00:41 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:00:41 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:00:41 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:02:00 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:02:00 CEST 2018
+status -s 
+Date: Wed Oct  3 09:02:02 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:02:02 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:02:02 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:12:33 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:12:33 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:12:33 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:12:33 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:12:41 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:12:42 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:12:42 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:12:42 CEST 2018
+status -s 
+Date: Wed Oct  3 09:28:36 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:28:36 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:28:36 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:30:58 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:30:58 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:31:11 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:31:11 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:31:11 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:31:11 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:31:26 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:31:26 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:31:36 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:31:37 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 09:31:46 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 09:31:46 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:37:15 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:37:15 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:37:17 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:37:17 CEST 2018
+pull --ff-only
+Date: Wed Oct  3 10:37:30 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:37:30 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:37:30 CEST 2018
+pull --ff-only
+Date: Wed Oct  3 10:37:41 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:37:41 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:37:42 CEST 2018
+branch -d feature/UXPM-276-add-support-for-mirrorlist
+Date: Wed Oct  3 10:37:44 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:37:44 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:37:45 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Wed Oct  3 10:37:48 CEST 2018
+push origin :feature/UXPM-276-add-support-for-mirrorlist
+Date: Wed Oct  3 10:37:50 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:37:50 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:37:50 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:37:52 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:37:52 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:37:56 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:37:56 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:48:22 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:48:23 CEST 2018
+log
+Date: Wed Oct  3 10:48:31 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:48:31 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:48:31 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:48:35 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:48:35 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Wed Oct  3 10:50:28 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Wed Oct  3 10:50:28 CEST 2018
+tag -a -m Release 2.0.0 2.0.0
+Date: Wed Oct  3 10:50:39 CEST 2018
