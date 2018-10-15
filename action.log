@@ -17694,3 +17694,47 @@ remote -v
 Date: Mon Oct 15 12:58:06 CEST 2018
 remote add origin ssh://git@idos-code.unibe.ch:7999/ubelix/ubelix-pxeenv_bios.git
 Date: Mon Oct 15 14:45:49 CEST 2018
+status -s 
+Date: Mon Oct 15 14:45:57 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Mon Oct 15 14:46:04 CEST 2018
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Mon Oct 15 14:46:08 CEST 2018
+remote -v
+Date: Mon Oct 15 14:48:08 CEST 2018
+remote add origin ssh://git@idos-code.unibe.ch:7999/ubelix/ubelix-pxeenv_uefi.git
+Date: Mon Oct 15 14:48:14 CEST 2018
+status -s 
+Date: Mon Oct 15 14:48:16 CEST 2018
+add .
+Date: Mon Oct 15 14:48:23 CEST 2018
+add .
+Date: Mon Oct 15 14:48:26 CEST 2018
+status -s 
+Date: Mon Oct 15 14:48:28 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Oct 15 14:48:46 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Oct 15 14:48:47 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Oct 15 14:48:47 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Oct 15 14:48:47 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Oct 15 14:48:58 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Oct 15 14:48:58 CEST 2018
+pull --ff-only
+Date: Mon Oct 15 14:49:03 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Oct 15 14:49:03 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Oct 15 14:49:03 CEST 2018
+log
+Date: Mon Oct 15 14:49:13 CEST 2018
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Oct 15 14:49:13 CEST 2018
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Oct 15 14:49:13 CEST 2018
+commit -v -m Intitial commit based approx on 22aa86f9 in legacy pxeenv
+Date: Mon Oct 15 14:49:37 CEST 2018
