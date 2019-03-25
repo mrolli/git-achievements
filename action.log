@@ -42340,3 +42340,47 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Mon Mar 25 13:44:46 CET 2019
 rebase -i 554acf7e
 Date: Mon Mar 25 13:44:57 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Mar 25 13:45:03 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Mar 25 13:45:03 CET 2019
+--list-cmds=list-mainporcelain,others,nohelpers,alias,list-complete,config
+Date: Mon Mar 25 13:45:06 CET 2019
+rev-parse --git-dir
+Date: Mon Mar 25 13:45:06 CET 2019
+rev-parse --git-dir
+Date: Mon Mar 25 13:45:08 CET 2019
+push origin development
+Date: Mon Mar 25 13:45:09 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Mar 25 13:45:09 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Mar 25 13:45:09 CET 2019
+status -s 
+Date: Mon Mar 25 13:45:11 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Mar 25 13:45:11 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Mar 25 13:45:11 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Mar 25 13:45:17 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Mar 25 13:45:17 CET 2019
+rebase -i 554acf7e
+Date: Mon Mar 25 13:45:29 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Mar 25 13:45:30 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Mar 25 13:45:30 CET 2019
+status -s 
+Date: Mon Mar 25 13:45:32 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Mar 25 13:45:32 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Mar 25 13:45:32 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Mon Mar 25 13:45:36 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Mon Mar 25 13:45:37 CET 2019
+rebase -i 554acf7e
+Date: Mon Mar 25 13:46:02 CET 2019
