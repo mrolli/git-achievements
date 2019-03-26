@@ -44258,3 +44258,79 @@ rev-list --count --left-right @{upstream}...HEAD
 Date: Tue Mar 26 12:55:40 CET 2019
 grep 10.1.
 Date: Tue Mar 26 12:55:44 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 12:55:49 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 12:55:49 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 12:55:57 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 12:55:57 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 12:56:14 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 12:56:14 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 12:56:44 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 12:56:44 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 12:56:56 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 12:56:56 CET 2019
+grep location
+Date: Tue Mar 26 12:57:01 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 12:57:02 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 12:57:02 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 12:57:31 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 12:57:32 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 12:57:52 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 12:57:52 CET 2019
+add resolver.pp
+Date: Tue Mar 26 12:57:54 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 12:57:55 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 12:57:55 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 12:59:40 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 12:59:40 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 13:00:06 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 13:00:06 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 13:00:53 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 13:00:53 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 13:01:10 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 13:01:11 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 13:01:13 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 13:01:13 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 13:01:28 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 13:01:28 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 13:01:36 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 13:01:36 CET 2019
+status -s 
+Date: Tue Mar 26 13:01:36 CET 2019
+rev-parse --git-dir --is-inside-git-dir --is-bare-repository --is-inside-work-tree --short HEAD
+Date: Tue Mar 26 13:01:36 CET 2019
+rev-list --count --left-right @{upstream}...HEAD
+Date: Tue Mar 26 13:01:37 CET 2019
+add manifests/aiub/export_aiub_sedna.pp manifests/slurm/fileserver.pp
+Date: Tue Mar 26 13:01:44 CET 2019
