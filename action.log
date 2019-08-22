@@ -71142,3 +71142,9 @@ init
 Date: Thu Aug 22 09:38:44 CEST 2019
 submodule add https://github.com/EmielH/hallo-hugo.git themes/hallo
 Date: Thu Aug 22 09:40:21 CEST 2019
+submodule add https://github.com/2-REC/hugo-myportfolio-theme.git themes/myportfolio
+Date: Thu Aug 22 09:42:30 CEST 2019
+init
+Date: Thu Aug 22 09:44:22 CEST 2019
+submodule add https://github.com/budparr/gohugo-theme-ananke.git themes/ananke
+Date: Thu Aug 22 09:44:24 CEST 2019
